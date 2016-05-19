@@ -8,3 +8,6 @@
 fenzhi
 2ok
 no delete
+
+stash
+
